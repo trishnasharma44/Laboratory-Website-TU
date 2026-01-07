@@ -1,7 +1,7 @@
 # Laboratory-Website-TU
 A Sensors, Measurements and Instrumentation Research laboratory website developed for Tezpur University to provide information about laboratory facilities, equipment, and academic activities in a structured and user-friendly manner.
 
-Laboratory Overview
+- Laboratory Overview
 - Available Resources
 - Projects
 - Publications
