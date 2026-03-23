@@ -9,7 +9,7 @@ import functionGenSMG2042 from "../assets/Function_Gen(SMG2042).jpg";
 import muffleFurnace from "../assets/Muffle-Furnace-1200C.jpeg";
 import niElvis from "../assets/NI_ELVIS_II_board.jpeg";
 import sonicator from "../assets/Sonicator.jpg";
-import shawDewPointMeter from "../assets/SHAW_Dew_Point_Meter.jpg";
+import shawDewPointMeter from "../assets/shaw-dew-point-meter.jpg";
 import solderingStation from "../assets/Soldering_Station.png";
 import hotPlateStirrer from "../assets/Hot_Plate_Stirrer.jpg";
 import phec from "../assets/pH-EC.jpg";
