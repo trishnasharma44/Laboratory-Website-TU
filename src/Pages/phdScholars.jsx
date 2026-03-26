@@ -1,6 +1,6 @@
 import React from "react";
 import phd_Aj from "../assets/phd_Aj.jpeg";
-import phd_Ar from "../assets/phd_Ar.jpg";
+import phd_Arif from "../assets/phd_Arif.jpeg";
 import phd_MK from "../assets/phd_MK.jpg";
 
 const phdScholarsList = [
@@ -26,7 +26,7 @@ const phdScholarsList = [
     rollno: "EEP24103",
     yearOfCompletion: "In Progress",
     email: "eep24103@tezu.ac.in",
-    image: phd_Ar,
+    image: phd_Arif,
   },
   {
     id: 3,
